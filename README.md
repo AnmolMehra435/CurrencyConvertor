@@ -1,2 +1,2 @@
 # CurrencyConvertor
-Just made a simple currency convertor website using js to using external API. 
+Just made a simple currency convertor website with JS by using external API. 
